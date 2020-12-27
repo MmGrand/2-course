@@ -1,0 +1,2 @@
+/usr/bin/ar qc libASM.a  CMakeFiles/ASM.dir/src/asm.c.o
+/usr/bin/ranlib libASM.a

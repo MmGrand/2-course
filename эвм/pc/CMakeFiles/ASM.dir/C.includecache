@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yava06/pc/src/asm.c
+asm.h
+/home/yava06/pc/src/asm.h
+memory.h
+/home/yava06/pc/src/memory.h
+stdio.h
+-
+string.h
+-
+cpu.h
+/home/yava06/pc/src/cpu.h
+
+includes/asm.h
+
+includes/cpu.h
+
+includes/memory.h
+

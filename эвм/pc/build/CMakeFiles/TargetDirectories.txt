@@ -1,0 +1,13 @@
+/home/yava06/pc/build/CMakeFiles/CPU.dir
+/home/yava06/pc/build/CMakeFiles/pc.dir
+/home/yava06/pc/build/CMakeFiles/RPN.dir
+/home/yava06/pc/build/CMakeFiles/BSC.dir
+/home/yava06/pc/build/CMakeFiles/ASM.dir
+/home/yava06/pc/build/CMakeFiles/rebuild_cache.dir
+/home/yava06/pc/build/CMakeFiles/Cpu.dir
+/home/yava06/pc/build/CMakeFiles/BigChars.dir
+/home/yava06/pc/build/CMakeFiles/edit_cache.dir
+/home/yava06/pc/build/CMakeFiles/ReadKey.dir
+/home/yava06/pc/build/CMakeFiles/Memory.dir
+/home/yava06/pc/build/CMakeFiles/Term.dir
+/home/yava06/pc/build/CMakeFiles/Signals.dir

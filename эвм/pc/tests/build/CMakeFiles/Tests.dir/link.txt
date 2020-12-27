@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/tests.dir/main.c.o  -o tests  libBigChars.a libMemory.a libTerm.a libTests.a 

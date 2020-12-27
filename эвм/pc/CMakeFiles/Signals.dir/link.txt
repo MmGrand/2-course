@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSignals.a  CMakeFiles/Signals.dir/src/signals.c.o
+/usr/bin/ranlib libSignals.a

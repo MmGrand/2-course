@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yava06/pc/src/bigChars.c
+bigChars.h
+/home/yava06/pc/src/bigChars.h
+stdio.h
+-
+unistd.h
+-
+
+includes/bigChars.h
+term.h
+includes/term.h
+
+includes/term.h
+

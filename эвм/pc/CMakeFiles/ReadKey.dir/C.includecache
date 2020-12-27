@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yava06/pc/src/readKey.c
+readKey.h
+/home/yava06/pc/src/readKey.h
+termios.h
+-
+unistd.h
+-
+string.h
+-
+stdio.h
+-
+
+includes/readKey.h
+

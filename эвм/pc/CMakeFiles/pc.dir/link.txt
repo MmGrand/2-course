@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/pc.dir/main.c.o CMakeFiles/pc.dir/src/ui.c.o  -o pc  libBigChars.a libMemory.a libReadKey.a libTerm.a libSignals.a libASM.a libBSC.a libRPN.a libCPU.a 

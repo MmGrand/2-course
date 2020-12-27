@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMemory.a  CMakeFiles/Memory.dir/home/yava06/pc/src/memory.c.o
+/usr/bin/ranlib libMemory.a

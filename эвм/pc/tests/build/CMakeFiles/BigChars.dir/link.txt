@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBigChars.a  CMakeFiles/BigChars.dir/home/yava06/pc/src/bigChars.c.o
+/usr/bin/ranlib libBigChars.a

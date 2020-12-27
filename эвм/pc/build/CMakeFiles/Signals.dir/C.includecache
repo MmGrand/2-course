@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/bigChars.h
+term.h
+../includes/term.h
+
+../includes/cpu.h
+
+../includes/memory.h
+
+../includes/signals.h
+
+../includes/term.h
+
+../includes/ui.h
+bigChars.h
+../includes/bigChars.h
+
+/home/yava06/pc/src/signals.c
+signals.h
+/home/yava06/pc/src/signals.h
+stdio.h
+-
+ui.h
+/home/yava06/pc/src/ui.h
+signal.h
+-
+sys/time.h
+-
+memory.h
+/home/yava06/pc/src/memory.h
+cpu.h
+/home/yava06/pc/src/cpu.h
+

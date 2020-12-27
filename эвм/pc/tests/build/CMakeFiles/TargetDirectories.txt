@@ -1,0 +1,7 @@
+/home/yava06/pc/tests/build/CMakeFiles/rebuild_cache.dir
+/home/yava06/pc/tests/build/CMakeFiles/Memory.dir
+/home/yava06/pc/tests/build/CMakeFiles/BigChars.dir
+/home/yava06/pc/tests/build/CMakeFiles/Term.dir
+/home/yava06/pc/tests/build/CMakeFiles/Tests.dir
+/home/yava06/pc/tests/build/CMakeFiles/edit_cache.dir
+/home/yava06/pc/tests/build/CMakeFiles/tests.dir

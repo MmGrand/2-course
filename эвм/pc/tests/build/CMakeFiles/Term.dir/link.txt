@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTerm.a  CMakeFiles/Term.dir/home/yava06/pc/src/term.c.o
+/usr/bin/ranlib libTerm.a

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/term.h
+
+/home/yava06/pc/src/term.c
+term.h
+/home/yava06/pc/src/term.h
+stdio.h
+-
+sys/ioctl.h
+-
+unistd.h
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libReadKey.a  CMakeFiles/ReadKey.dir/src/readKey.c.o
+/usr/bin/ranlib libReadKey.a

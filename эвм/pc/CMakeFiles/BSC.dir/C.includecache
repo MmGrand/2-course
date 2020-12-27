@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yava06/pc/src/basic.c
+basic.h
+/home/yava06/pc/src/basic.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+rpn.h
+/home/yava06/pc/src/rpn.h
+
+includes/basic.h
+
+includes/rpn.h
+stdio.h
+-
+stdlib.h
+-
+
